@@ -17,8 +17,8 @@ def get_database_connection():
      	user="thiennhan",
      	password="KrishLinh123!",
      	dsn="kvtq93bgoyg8wtqx_low",
-     	config_dir="/Users/krmahade/D/Wallet",
-     	wallet_location="/Users/krmahade/D/Wallet",
+     	config_dir="Wallet",
+     	wallet_location="Wallet",
      	wallet_password="KrishLinh123!")
 	return dbc
   
